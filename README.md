@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @FelipeHolandaNovelino
-- 
+- 👋 Hi, I’m @Felipe Novelino
 - 🌱 I’m currently studying Backend Development and JS.
 
 <!---
