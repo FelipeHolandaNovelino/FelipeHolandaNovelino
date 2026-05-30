@@ -1,9 +1,7 @@
 
   <p>- Aqui você vai encontrar meus estudos e projetos!👋</p>
 
- Bem vindo!🖐😁 Me chamo Felipe Novelino e sou estudante do 4º período curso de Análise e desenvolvimento de sistemas no IFPE.
-- 🔭 Atualmente estou dedicando tempo estudando análise de teste, padrões de projetos e Spring Boot.
-- 👯 Estou procurando colaborar em projetos e sistemas que envolvam novos desafios.
+ Bem vindo!🖐😁 Me chamo Felipe Novelino e sou estudante do 4º período curso de Análise e desenvolvimento de sistemas no IFSP.
 
 
  Meus contatos:
