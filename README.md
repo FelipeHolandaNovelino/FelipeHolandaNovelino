@@ -23,14 +23,5 @@
    
   </div>
 
-  <div align="center"><br>
-    <a href="https://github.com/FelipeHolandaNovelino">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeHolandaNovelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHolandaNovelino&layout=compact&langs_count=7&theme=tokyonight" />
-    </a>
-    <br><br> </summary>
-    <p align="center"></p>
-  </div>
-
 
 
