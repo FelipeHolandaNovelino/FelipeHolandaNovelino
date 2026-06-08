@@ -1,7 +1,7 @@
 
   <p>- Aqui você vai encontrar meus estudos e projetos!👋</p>
 
- Bem vindo!🖐😁 Me chamo Felipe Novelino e sou estudante do 4º período curso de Análise e desenvolvimento de sistemas no IFSP.
+ Bem vindo!🖐😁 Me chamo Felipe Holanda Novelino e sou estudante do 4º período curso de Análise e desenvolvimento de sistemas no IFSP.
 
 
  Meus contatos:
